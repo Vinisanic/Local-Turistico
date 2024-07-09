@@ -23,4 +23,22 @@ width: 1200px;
 text-align: center;
 
   }
+
   
+  p {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    color: #333333;
+  }
+
+  body{
+    font-family: "Open Sans", sans-serif;
+  }
+
+  ul li::marker {
+    color: #333333;
+  }
+
+
